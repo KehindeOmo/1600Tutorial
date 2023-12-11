@@ -17,4 +17,6 @@
     </body>
   </html>
 
-## You will first want to make sure every line is indented by a tab. Make sure to declare the the html document as well, and from there walahh, continue coding!
+## You will first want to make sure every line is indented by a tab. Make sure to declare the the html document as well, and from there walahh, continue coding!\
+[bold/italics](https://github.com/KehindeOmo/1600Tutorial/blob/main/bold%20%26%20italic.md) [headers](https://github.com/KehindeOmo/1600Tutorial/blob/main/headers.md) [bulletpoints](https://github.com/KehindeOmo/1600Tutorial/blob/main/bulletpoints.md) [code](https://github.com/KehindeOmo/1600Tutorial/blob/main/code.md)
+[blockquote](https://github.com/KehindeOmo/1600Tutorial/new/main)
